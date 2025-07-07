@@ -104,11 +104,18 @@ The owner’s name is hidden as metadata inside the image.
 
 ---
 
-📌 Summary
+### 📌 Summary
 - This challenge involved decompressing a .gz archive.
 - We extracted a USB image and used foremost to recover deleted files.
 - Finally, we analyzed strings inside the .png to find hidden metadata.
 
+---
 
+### Conclusion
+This challenge helped me practice:
+
+- Forensic disk image analysis
+- Deleted file recovery with carving tools
+- Metadata extraction from image files
 
 
